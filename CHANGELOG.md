@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.11.0](https://github.com/virtualidentityag/vi-saas-tenantService/compare/v1.10.0...v1.11.0) (2025-07-30)
+
+
+### Features
+
+* TSYSTEMS-196 ([2303df4](https://github.com/virtualidentityag/vi-saas-tenantService/commit/2303df4512669c6061fc977ba7dc91178ac26a38))
+* TSYSTEMS-196 ([6767e21](https://github.com/virtualidentityag/vi-saas-tenantService/commit/6767e212df0760aca34cf7eca7d6bc062de9f96e))
+* TSYSTEMS-196 ([f1c4f94](https://github.com/virtualidentityag/vi-saas-tenantService/commit/f1c4f942045275df38fdfcf0182f2c69e7794f7b))
+* TSYSTEMS-196 ([8667b42](https://github.com/virtualidentityag/vi-saas-tenantService/commit/8667b420f894e2f54db0f3de7c151ada072c964c))
+* TSYSTEMS-196 ([558774e](https://github.com/virtualidentityag/vi-saas-tenantService/commit/558774e3b1fa3d8639bfd284ec4fa7699a2924aa))
+* TSYSTEMS-196 ([1d0e531](https://github.com/virtualidentityag/vi-saas-tenantService/commit/1d0e53138a6b31a5684345404b025933138e6338))
+* TSYSTEMS-196 ([1b3cf17](https://github.com/virtualidentityag/vi-saas-tenantService/commit/1b3cf172c044d4e737e6ab9354710b8b24d35837))
+
+
+### Bug Fixes
+
+* bump parent version to fix CVE ([a0006a3](https://github.com/virtualidentityag/vi-saas-tenantService/commit/a0006a3b513b06df1b5b302488ab803c449aea88))
+* cache version for actions to fix build ([ad42fb5](https://github.com/virtualidentityag/vi-saas-tenantService/commit/ad42fb5db3feb8f6ecfc8d5af0752bc0a69b3c22))
+* data security translations ([dde4317](https://github.com/virtualidentityag/vi-saas-tenantService/commit/dde43174c928ab41f7f2f1d30ab9591c59576068))
+* data security translations ([79a8057](https://github.com/virtualidentityag/vi-saas-tenantService/commit/79a80570096541e6d1bdecae7e9f2d2a03209f94))
+
 ## [1.10.0](https://github.com/virtualidentityag/vi-saas-tenantService/compare/v1.8.1...v1.10.0) (2024-03-20)
 
 
